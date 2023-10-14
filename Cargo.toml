@@ -1,0 +1,13 @@
+[package]
+name = "drawing-struct"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+norad = "0.10"
+kurbo = "0.10"
+
+[dev-dependencies]
+pretty_assertions = "1.4.0"
